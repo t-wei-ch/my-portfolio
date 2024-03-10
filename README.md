@@ -3,7 +3,11 @@
 Technical Skills: Python, LaTeX, SQL, JavaScript, HTML, TensorFlow, Microsoft Office
 
 ## Education
-- B.Sc. (Hons) in Mathematics, National University of Singapore (2018 - 2022)
+**2023 - 2024**
+- Data Science Immersive, General Assembly
+
+**2018 - 2022**
+- B.Sc. (Hons) in Mathematics, National University of Singapore
 
 ## Work Experience
 
