@@ -43,9 +43,9 @@ Several models were explored for this task, including a time series analysis (SA
 
 ### Millennials and Gen Z - How Differently Do They Speak?
 
-We developed a classifier model for the two categories of Millennial and Gen Z in order for companies who advertise on Instagram to see the proportion of Millennials and Gen Zs who view engage with their advertisements, based on their comments.
+We developed a classifier model for the two categories of Millennial and Gen Z in order for companies who advertise on Instagram to see the proportion of Millennials and Gen Zs who engage with their advertisements, based on their comments.
 
-Comments were scraped from the subreddits r/Millennials and r/GenZ as proxies for Instagram comments. A bag-of-words approached was then used to process the raw text data, followed by an exploration of several classifier models (e.g., Multinomial Naive Bayes, Logistic Regression) to see which performed best.
+Comments were scraped from the subreddits r/Millennials and r/GenZ as proxies for Instagram comments. A bag-of-words approach was then used to process the raw text data, followed by an exploration of several classifier models (e.g., Multinomial Naive Bayes, Logistic Regression) to see which performed best.
 
 ### HDB Resale Price Prediction and Analysis
 
